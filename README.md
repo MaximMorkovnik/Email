@@ -2,7 +2,7 @@
   
 <h1>Email</h1>
 
-<h4>Валидатор --><h4><https://validator.w3.org/>
+[**<h4>Валидатор --><h4>**]<https://validator.w3.org/>
   
 [**<h4>Сaniuse для email - проверка поддерживаемых свойств --><h4>**](https://caniuse.email/)
   
